@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Katherine Gavilan</h1>
 <h3 align="center">Soy una backend apasionada por el mundo de la programación</h3>
 
-- 💬 Ask me about **html, css, java**
+- 💬 Ask me about **html, css, java, php, python, javascript**
 
 - 📫 How to reach me **katherine.s.gavilan@gmail.com**
 
